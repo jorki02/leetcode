@@ -1,6 +1,6 @@
 import java.util.*
 
-class Solution {
+class Solution75 {
     fun sortColors(nums: IntArray): Unit {
         if(nums.isEmpty()) return
 
@@ -66,7 +66,7 @@ class Solution {
 }
 
 fun main(){
-    val solution = Solution()
+    val solution = Solution75()
 
     val array = intArrayOf(0)
 
